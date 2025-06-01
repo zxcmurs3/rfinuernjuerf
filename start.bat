@@ -1,1 +1,0 @@
-web-cam-bruteforcer.exe --port 8000
